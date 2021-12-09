@@ -4,4 +4,4 @@
 # Just open the .rtf file and you should be good to go
 # I have also included a topology diagram for your reference. Enjoy!
 
-![alt text](https://github.com/carlosteclas/Multipod/blob/main/Topology2.png?raw=true)
+![alt text](https://github.com/carlosteclas/Multipod/blob/main/Topology.png?raw=true)
