@@ -2,4 +2,4 @@
 # Feel free to adjust and use it in your environment as needed. Just open the .rtf file
 # I have also included a topology diagram for your reference. Enjoy!
 
-![alt text](https://github.com/carlosteclas/[Multipod/blob/topology.png?raw=true)
+![alt text](https://github.com/carlosteclas/[Multipod/blob/Topology.png?raw=true)
